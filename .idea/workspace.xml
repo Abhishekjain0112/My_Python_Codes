@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f8bd923-8288-4114-8bc7-407ca5e03c69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/Capitaliz First Later.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/Merge the Tools!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/Sub  string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/Sub  stringoptimization.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HackerRank_programs/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/coursera/rosterJsonManytoMany.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HackerRank_programs/Numpay first pro.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../programs/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../programs/Basic_Programs/Design_dot_mat.py" beforeDir="false" />
@@ -84,20 +78,20 @@
     <session id="-470580074">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.56" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.67" value="1" />
-          <entry key="project.open.time.73" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.73" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="data" value="1" />
           <entry key="json" value="1" />
-          <entry key="py" value="10" />
+          <entry key="py" value="11" />
           <entry key="test" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -106,35 +100,26 @@
         <counts>
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="10" />
+          <entry key="Python" value="11" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="data" value="31" />
-          <entry key="py" value="920" />
+          <entry key="py" value="1126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Python" value="920" />
+          <entry key="Python" value="1126" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank_programs/Sub  stringoptimization.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coursera/rosterJsonManytoMany.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -171,7 +156,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coursera/geodata/geodump.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
+            <state relative-caret-position="150">
               <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
@@ -180,11 +165,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HackerRank_programs/Merge the Tools!.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="225">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank_programs/Numpay first pro.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="15" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -272,10 +266,11 @@
         <option value="$PROJECT_DIR$/coursera/geodata/where.data" />
         <option value="$PROJECT_DIR$/coursera/geodata/geoload.py" />
         <option value="$PROJECT_DIR$/HackerRank_programs/Merge the Tools!.py" />
+        <option value="$PROJECT_DIR$/HackerRank_programs/Numpay first pro.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -289,6 +284,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,7 +306,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -337,7 +332,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Merge the Tools!">
+  <component name="RunManager" selected="Python.Numpay first pro">
     <configuration name="Merge the Tools!" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -359,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sub  stringoptimization" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Numpay first pro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -371,7 +366,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank_programs/Sub  stringoptimization.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank_programs/Numpay first pro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -444,19 +439,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Sub  stringoptimization" />
       <item itemvalue="Python.rosterJsonManytoMany" />
       <item itemvalue="Python.geoload" />
       <item itemvalue="Python.geodump" />
       <item itemvalue="Python.Merge the Tools!" />
+      <item itemvalue="Python.Numpay first pro" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Numpay first pro" />
         <item itemvalue="Python.Merge the Tools!" />
         <item itemvalue="Python.geodump" />
         <item itemvalue="Python.geoload" />
         <item itemvalue="Python.rosterJsonManytoMany" />
-        <item itemvalue="Python.Sub  stringoptimization" />
       </list>
     </recent_temporary>
   </component>
@@ -482,15 +477,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="68" y="20" width="1400" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18175809" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20176083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26241136" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5120567" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -749,6 +744,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/coursera/geodata/geodump.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank_programs/Merge the Tools!.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank_programs/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -773,20 +785,10 @@
     <entry file="file://$PROJECT_DIR$/pattern1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/coursera/geodata/geodump.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank_programs/Numpay first pro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank_programs/Merge the Tools!.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state>
+          <caret selection-end-line="15" selection-end-column="25" />
         </state>
       </provider>
     </entry>
